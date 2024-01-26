@@ -5,6 +5,9 @@ This quick job wwas  a perfect test of layout and responsive skills, to see if t
 
 There's a tiny bit of JS for the mobile menu, but the focus is HTML & SCSS.
 
+## Stack 
+
+HTML/SCSS/JS
 
 ## Layout
 
@@ -21,21 +24,30 @@ Live link:
 https://lukas-bronski.github.io/Sunnyside-Media-Agency-Landing-Page/
 
 
-## Demo
 
-Live link:
-https://lukas-bronski.github.io/Sunnyside-Media-Agency-Landing-Page/
 
 
 ## Features
 
-- Mobile/ Desktop menu
-- Fullscreen/mobile mode
+- Mobile/ Desktop menu (JS toggle)
+- Fullscreen/mobile mode (mediaQuery)
 - Cross platform
 
 
 
 ## Screenshots
 
+Desktop width :
+
 ![Screenshot](desktop.png)
+
+Mobile width :
+
+![Screenshot](mobile.png)
+
+Toggle mobile menu :
+
+![Screenshot](menu.png)
+
+## THANKS!
 
