@@ -1,15 +1,41 @@
-This is a solution to the [Sunnyside agency landing page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/sunnyside-agency-landing-page-7yVs3B6ef). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
-## Table of contents
+# Sunnyside - Media Agency Landing Page
 
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
+This quick job wwas  a perfect test of layout and responsive skills, to see if they were still there :) 
+
+There's a tiny bit of JS for the mobile menu, but the focus is HTML & SCSS.
+
+
+## Layout
+
+The designs were created to the following widths:
+
+- Mobile: 375px
+- Desktop: 1440px
+
+
+## Demo
+
+Live link:
+
+https://lukas-bronski.github.io/Sunnyside-Media-Agency-Landing-Page/
+
+
+## Demo
+
+Live link:
+https://lukas-bronski.github.io/Sunnyside-Media-Agency-Landing-Page/
+
+
+## Features
+
+- Mobile/ Desktop menu
+- Fullscreen/mobile mode
+- Cross platform
+
+
+
+## Screenshots
+
+![Screenshot](desktop.png)
+
