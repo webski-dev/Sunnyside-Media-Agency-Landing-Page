@@ -21,7 +21,7 @@ The designs were created to the following widths:
 
 Live link:
 
-https://lukas-bronski.github.io/Sunnyside-Media-Agency-Landing-Page/
+https://webski-dev.github.io/Sunnyside-Media-Agency-Landing-Page/
 
 
 
